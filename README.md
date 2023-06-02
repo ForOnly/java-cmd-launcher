@@ -17,14 +17,7 @@
 4. 引入spring环境
 5.	......
 
-### 参考文献
-
-1.    [【java命令行加载第三方jar包】](https://juejin.cn/s/java%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8A%A0%E8%BD%BD%E7%AC%AC%E4%B8%89%E6%96%B9jar%E5%8C%85)
-
-2.   [【Compiling and Running Java Without an IDE】](https://dzone.com/articles/compiling-and-running-java)
-
-3.   [【无IDE时编译和运行Java】](https://www.cnblogs.com/GarfieldEr007/p/9953844.html)
-4.   ......
+4.   
 
 
 ## 运行
@@ -70,3 +63,13 @@
 
      ![image-20230602155847507](Images/image-20230602155847507.png)
 
+
+
+### 参考文献
+
+1.    [【java命令行加载第三方jar包】](https://juejin.cn/s/java%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8A%A0%E8%BD%BD%E7%AC%AC%E4%B8%89%E6%96%B9jar%E5%8C%85)
+
+2.    [【Compiling and Running Java Without an IDE】](https://dzone.com/articles/compiling-and-running-java)
+
+3.    [【无IDE时编译和运行Java】](https://www.cnblogs.com/GarfieldEr007/p/9953844.html)
+4.    ......
