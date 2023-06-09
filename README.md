@@ -57,7 +57,8 @@
 6.   使用java命令运行程序
 
      ```shell
-     java -cp lib\log4j-1.2.17.jar;classes com.foronly.example.Main
+     cd classes
+     java -cp .;lib\log4j-1.2.17.jar com.foronly.example.Main
      ```
 
 7.   最终运行截图
