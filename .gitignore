@@ -1,5 +1,5 @@
 #java
-*.class
+#*.class # 本项目特殊需求  需要上传.class文件
 
 #package file
 *.war

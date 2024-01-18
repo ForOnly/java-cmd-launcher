@@ -1,4 +1,4 @@
-package com.foronly.example.demo;
+package com.foronly.cmd.demo;
 
 /**
  * <p>

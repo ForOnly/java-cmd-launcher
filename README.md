@@ -21,49 +21,8 @@
 
 
 ## 运行
+[only-native-java](only-native-java/README.md)
 
-### windows环境下(默认已经配好java环境)
-1.   进入项目
-
-     ```shell
-     cd java-cmd-demo
-     ```
-
-2.   创建classes文件夹
-
-     ```shell
-     md classes
-     ```
-
-3.   复制resources中的文件到classes中
-
-     ```shell
-     copy resources classes\
-     ```
-     
-4.   使用javac命令编译程序
-
-     ```shell
-     javac -cp .;lib\log4j-1.2.17.jar -d classes com\foronly\example\demo\*.java com\foronly\example\onlycmd\*.java com\foronly\example\*.java
-     # 若有多个jar包，一一列出，windows中使用分号(;)分隔，Linux中使用冒号(:)分隔，例如：javac -cp .;xxxx-yy.jar;yyyyy-xxx.jar Main.java
-     ```
-     
-5.   复制相关jar包到classes的lib目录下
-
-     ```shell
-     xcopy lib classes\lib\
-     ```
-     
-6.   使用java命令运行程序
-
-     ```shell
-     cd classes
-     java -cp .;lib\log4j-1.2.17.jar com.foronly.example.Main
-     ```
-
-7.   最终运行截图
-
-     ![image-20230619144345124](Images/image-20230619144345124.png)
 
 
 

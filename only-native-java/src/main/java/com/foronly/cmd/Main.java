@@ -1,7 +1,7 @@
-package com.foronly.example;
+package com.foronly.cmd;
 
-import com.foronly.example.demo.Demo;
-import com.foronly.example.onlycmd.Deploy;
+import com.foronly.cmd.demo.Demo;
+import com.foronly.cmd.deploy.Deploy;
 import org.apache.log4j.Logger;
 
 /**

@@ -1,4 +1,4 @@
-package com.foronly.example.onlycmd;
+package com.foronly.cmd.deploy;
 
 /**
  * <p>
