@@ -11,6 +11,7 @@ javac -cp .;src\main\resources\lib\log4j-1.2.17.jar -d build-test\classes-test s
 xcopy /s /i src\main\resources build-test\classes-test
 ```
    ![Clip_2024-01-18_15-48-15.png](doc/img/image_2024-01-18_15-48-15.png)
+
 2. 进入到only-native-java 项目,执行一下命令执行项目
 ```shell
 cd only-native-java
@@ -28,7 +29,3 @@ java -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF
 
 3. 最终演示
     ![image_2024-01-18_15-54-58.png](doc%2Fimg%2Fimage_2024-01-18_15-54-58.png)
-
-
-
-javac   -cp .;src\main\resources\lib\log4j-1.2.17.jar -d build-test\classes-test -sourcepath src\main\java src\main\java\com\foronly\cmd\**\*.java
